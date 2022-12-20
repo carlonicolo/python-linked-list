@@ -25,7 +25,7 @@ class SLLNode:
         self.next = new_next
         
         
-def main():
+""" def main():
     node1 = SLLNode('apple')
     node2 = SLLNode(3)
 
@@ -33,4 +33,4 @@ def main():
     print(node1.get_next())
 
 if __name__ == "__main__":
-    main()
+    main() """
